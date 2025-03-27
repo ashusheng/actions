@@ -1,2 +1,5 @@
 # actions
-The action to deploy an astro website to github pages from the other private repo.
+The action to deploy an static website to github pages from the other private repo.
+
+- astro
+- hugo
